@@ -1,0 +1,6 @@
+project_id        = #insert yours here
+region            = #insert yours here
+bigquery_location = #insert yours here
+dataset_id        = #insert yours here
+temp_bucket_name  = #insert yours here
+service_account_id = #insert yours here
